@@ -1,8 +1,8 @@
 class ProtocGenStructTransformer < Formula
   desc "Transformation functions generator for Protobuf"
   homepage "https://github.com/bold-commerce/protoc-gen-struct-transformer"
-  url "https://github.com/bold-commerce/protoc-gen-struct-transformer/archive/v1.0.3.tar.gz"
-  sha256 "7b1cb60c1254b0daa24799ce817178da3c27f5bfc8105761f51f51a8248662b1"
+  url "https://github.com/bold-commerce/protoc-gen-struct-transformer/archive/v1.0.4.tar.gz"
+  sha256 "09232991208c2f4138daec69f6cb49ca7f3ea8bc14a7fe49f8257dc2cc4e265c"
 
   head "https://github.com/bold-commerce/protoc-gen-struct-transformer.git"
 
